@@ -1,0 +1,41 @@
+# Dependencies  
+/vendor  
+/node_modules  
+
+
+
+# IDE/Editor folders  
+/.idea  
+/.vscode  
+/.fleet  
+/.phpintel  
+_ide_helper.php  
+.phpstorm.meta.php  
+
+# Logs và Cache  
+/storage/*.key  
+/storage/logs/*  
+/storage/framework/cache/*  
+/storage/framework/sessions/*  
+/storage/framework/views/*  
+/bootstrap/cache/*  
+
+
+# Testing  
+.phpunit.result.cache  
+.phpunit.cache  
+
+# Package managers  
+npm-debug.log  
+yarn-error.log  
+yarn-debug.log  
+package-lock.json  
+
+# OS generated files  
+.DS_Store  
+.DS_Store?  
+._*  
+.Spotlight-V100  
+.Trashes  
+ehthumbs.db  
+Thumbs.db  
